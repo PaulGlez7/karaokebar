@@ -1,1 +1,2 @@
 esta es la zona del area de clientes
+aqui se encuentran todos los clientes de la empresa
